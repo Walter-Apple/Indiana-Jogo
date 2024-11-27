@@ -1,4 +1,4 @@
-![Indiana](https://github.com/user-attachments/assets/3e942dc5-2d61-423e-a0fa-9603c85828b3)# Indiana-Jogo
+# Indiana-Jogo
 
 <h2>Descrição</h2>
 <p>Essa cena é baseada na parte clássica onde o Indiana Jones corre da pedra rolante para se salvar, resolvemos adicionar alguns obstáculos no caminho para ser mais desafiador e também decidimos colocar escadas ao invés de ser uma caverna completa.</p>
@@ -8,7 +8,7 @@
 
 <h2>Modelos</h2>
 <p>Para o modelo mais parecido do Indiana pegamos um asset da assetstore para facilitar e nos ajudar.
-Indiana: ![Indiana](https://github.com/user-attachments/assets/c86ed1ae-ea69-44a6-9614-c39d0de38ea7)
+Indiana: !(https://github.com/user-attachments/assets/c86ed1ae-ea69-44a6-9614-c39d0de38ea7)
 
  </p>
 
