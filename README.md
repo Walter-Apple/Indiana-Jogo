@@ -1,5 +1,6 @@
 # Indiana-Jogo
 
+
 <h2>Descrição</h2>
 <p>Essa cena é baseada na parte clássica onde o Indiana Jones corre da pedra rolante para se salvar, resolvemos adicionar alguns obstáculos no caminho para ser mais desafiador e também decidimos colocar escadas ao invés de ser uma caverna completa.</p>
 
@@ -19,6 +20,7 @@
 
 <h2>Música</h2>
 <p>Na música decidimos pegar algo que realmente dê um pouco de adrenalina e combine com o cenário e situação, a música sendo a Cyril Markov - The Chase:  https://m.soundcloud.com/markov_cyril/the-chase?in=elmoteroloco%2Fsets%2Fcyril_markov_pieces</p>
+<img src="imagens/Alexa.png" alt="Indiana" width="1" height="1">
 
 
 <h2>Scripts</h2>
