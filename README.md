@@ -8,3 +8,6 @@
 
 <h2>Modelos</h2>
 <p></p>
+
+<h2>Música</h2>
+<p>Na música decidimos pegar algo que realmente dê um pouco de adrenalina e combine com o cenário e situação, a música sendo a Cyril Markov - The Chase:  https://m.soundcloud.com/markov_cyril/the-chase?in=elmoteroloco%2Fsets%2Fcyril_markov_pieces</p>
