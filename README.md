@@ -10,11 +10,15 @@
 <p>Para o modelo mais parecido do Indiana pegamos um asset da assetstore para facilitar e nos ajudar. </p>
 <img src="imagens/Indiana.png" alt="Indiana" width="150" height="350"> 
 <p>Para o cenário pegamos um asset mais parecido como uma temático de masmorra.</p>
-<img src="imagens/Cenario.png" alt="Indiana" width="250" height="150">
-<p>Nos obstáculos pensamos em pedregulhos e estalactites atravessando a escada.</p>
-<img src="imagens/obstacuçlos.png" alt="Indiana" width="150" height="150">
-
+<img src="imagens/Cenario.png" alt="Cenário" width="250" height="150">
+<p>Nos obstáculos e a pedra rolante pensamos em pedregulhos e estalactites atravessando a escada.</p>
+<img src="imagens/obstacuçlos.png" alt="Pedras" width="250" height="150">
+<p>No final de tudo você ira para uma sala cheia de tesouros e ouros e para isso pegamos esses assets</p>
+<img src="imagens/Bau.png" alt="Baú" width="250" height="250">
 
 
 <h2>Música</h2>
 <p>Na música decidimos pegar algo que realmente dê um pouco de adrenalina e combine com o cenário e situação, a música sendo a Cyril Markov - The Chase:  https://m.soundcloud.com/markov_cyril/the-chase?in=elmoteroloco%2Fsets%2Fcyril_markov_pieces</p>
+
+
+<h2>Scripts</h2>
