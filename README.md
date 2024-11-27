@@ -8,7 +8,7 @@
 
 <h2>Modelos</h2>
 <p>Para o modelo mais parecido do Indiana pegamos um asset da assetstore para facilitar e nos ajudar.
-Indiana: !(https://github.com/user-attachments/assets/c86ed1ae-ea69-44a6-9614-c39d0de38ea7)
+Indiana: 
 
  </p>
 
