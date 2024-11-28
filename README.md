@@ -8,8 +8,6 @@
 <p>Para jogar é simples e faz você se sentir na pele do Indiana, você corre equanto se desvia das pedras no caminho que irão te deixar mais devagar ou às vezes de derrubar, fazendo com que você volte ao ínicio e repita o processo.</p>
 
 <h2>Modelos</h2>
-<p>Para o modelo mais parecido do Indiana pegamos um asset da assetstore para facilitar e nos ajudar. </p>
-<img src="imagens/Indiana.png" alt="Indiana" width="150" height="350"> 
 <p>Para o cenário pegamos um asset mais parecido como uma temático de masmorra.</p>
 <img src="imagens/Cenario.png" alt="Cenário" width="250" height="150">
 <p>Nos obstáculos e a pedra rolante pensamos em pedregulhos e estalactites atravessando a escada.</p>
