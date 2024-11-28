@@ -15,7 +15,7 @@
 <p>Nos obstáculos e a pedra rolante pensamos em pedregulhos e estalactites atravessando a escada.</p>
 <img src="imagens/obstacuçlos.png" alt="Pedras" width="250" height="150">
 <p>No final de tudo você ira para uma sala cheia de tesouros e ouros e para isso pegamos esses assets</p>
-<img src="imagens/Bau.png" alt="Baú" width="250" height="250">
+<img src="imagens/Bau.png" alt="Baú" width="300" height="250">
 
 
 <h2>Música</h2>
