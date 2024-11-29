@@ -1,11 +1,20 @@
 # Indiana-Jogo
 
 
-<h2>Descrição</h2>
-<p>Essa cena é baseada na parte clássica onde o Indiana Jones corre da pedra rolante para se salvar, resolvemos adicionar alguns obstáculos no caminho para ser mais desafiador e também decidimos colocar escadas ao invés de ser uma caverna completa.</p>
+<h2>Análise das cores da cena:</h2>
+<p>No cenário decidimos colocaruma cor cinza de seriedade para mostrar como a situação está intensa e séria, apenas quando o jogador passa de todo o desafio que ele irá conseguir acessar uma sala com tesouros e com cores amarelas para representar a felicidade de conseguir superar momentos difícies.</p>
 
-<h2>Jogabilidade</h2>
-<p>Para jogar é simples e faz você se sentir na pele do Indiana, você corre equanto se desvia das pedras no caminho que irão te deixar mais devagar ou às vezes de derrubar, fazendo com que você volte ao ínicio e repita o processo.</p>
+<h2>Proposta da cena:</h2>
+<h3>Descrição:</h3>
+<p>Essa cena é baseada na parte clássica onde o Indiana Jones corre da pedra rolante para se salvar, resolvemos adicionar alguns obstáculos no caminho para ser mais desafiador e também decidimos colocar escadas ao invés de ser uma caverna completa.</p>
+<h3>Personagens:</h3>
+<p>Indiana Jones foi o nosso personagem principal, no meio do projeto pensamos em fazer o jogo em primeira pessoa para facilitar e nos ajudar em questões de animações e programação.</p>
+<h3>Jogabilidade</h3>
+<p>Para jogar é simples e faz você se sentir na pele do Indiana, você corre equanto se desvia das pedras no caminho que irão te deixar mais devagar ou às vezes de derrubar, fazendo com que você volte ao ínicio e repita o processo equanto você corre da pedra rolante.</p>
+<h3>Esboços conceituais:</h3>
+<p>Para o Indiana Jones pensamos primeiramente em alguém com uma aparência de aventureiro:</p>
+<img src="imagens/Indiana.png" alt="Cenário" width="100" height="200">
+
 
 <h2>Modelos</h2>
 <p>Para o cenário pegamos um asset mais parecido como uma temático de masmorra.</p>
