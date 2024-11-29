@@ -11,18 +11,19 @@
 <p>Indiana Jones foi o nosso personagem principal, no meio do projeto pensamos em fazer o jogo em primeira pessoa para facilitar e nos ajudar em questões de animações e programação.</p>
 <h3>Jogabilidade</h3>
 <p>Para jogar é simples e faz você se sentir na pele do Indiana, você corre equanto se desvia das pedras no caminho que irão te deixar mais devagar ou às vezes de derrubar, fazendo com que você volte ao ínicio e repita o processo equanto você corre da pedra rolante.</p>
+
 <h3>Esboços conceituais:</h3>
 <p>Para o Indiana Jones pensamos primeiramente em alguém com uma aparência de aventureiro:</p>
 <img src="imagens/Indiana.png" alt="Cenário" width="100" height="200">
-
-
-<h2>Modelos</h2>
 <p>Para o cenário pegamos um asset mais parecido como uma temático de masmorra.</p>
 <img src="imagens/Cenario.png" alt="Cenário" width="250" height="150">
 <p>Nos obstáculos e a pedra rolante pensamos em pedregulhos e estalactites atravessando a escada.</p>
 <img src="imagens/obstacuçlos.png" alt="Pedras" width="250" height="150">
 <p>No final de tudo você ira para uma sala cheia de tesouros e ouros e para isso pegamos esses assets</p>
 <img src="imagens/Bau.png" alt="Baú" width="300" height="250">
+
+<h2>Explicação do jogo:</h2>
+<p>O jogo é simples para você sempre correr e não bater em nenhuma pedra, como a cena clássica do filme mas com pedras no caminho. </p>
 
 
 <h2>Música</h2>
