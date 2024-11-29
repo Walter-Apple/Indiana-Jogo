@@ -30,5 +30,8 @@
 <p>Na música decidimos pegar algo que realmente dê um pouco de adrenalina e combine com o cenário e situação, a música sendo a Cyril Markov - The Chase:  https://m.soundcloud.com/markov_cyril/the-chase?in=elmoteroloco%2Fsets%2Fcyril_markov_pieces</p>
 <img src="imagens/Alexa.png" alt="Indiana" width="1" height="1">
 
+<h3>Oque cada um da dupla fez:</h3>
+<p>Daniel Ryu: Peguei os assets na store, fiz o mapa e selecionei os melhores assets que combine, fiz e tentei ajeitar a programação de movimentação  </p>
+<p>Gustavo Rezende:</p>
 
 <h2>Scripts</h2>
