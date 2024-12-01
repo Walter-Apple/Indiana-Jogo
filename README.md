@@ -1,8 +1,17 @@
 # Indiana-Jogo
 
+<h2>Descrição da obra:</h2>
+<p>Indiana Jones: Os Caçadores da Arca Perdida é um filme de ação e aventura onde Jones está em uma corrida contra o tempo para encontrar a Arca da Aliança antes do exercito nazista, e mesmo falhando nisso, ele ainda sai vitorioso por conta do poder da arca ser demais para os nazistas controlarem. No fim mostrando que a busca por poder deles os destruiu, enquanto Jones e Marion sobrevivem ao não olhar para a Arca em ação, não estando a "busca" de um poder além da compreensão deles.</p>
+
+<h2>Análise das cores da obra:</h2>
+<p>Indiana Jones: Ele é o protagonista, inicialmente apresentado como um explorador sério e calado, mas sendo na verdade um professor com uma grande paixão por arqueologia, a nível disposto a arriscar a própria vida para proteger os artefatos e sua história/cultura. No início da trama, expressa seu ceticismo ao sobrenatural, mas depois de encontrar a Arca da Aliança muda de ideia.
+
+Marion Ravenwood: Interesse romântico do Indiana Jones e filha de Abner Ravenwood, mentor dele. Introduzida vencendo um cara grande em um jogo de bebida para apresentar ao telespectador sua personalidade "durona", inicialmente está cheia de ressentimento e raiva contra Jones por conta do passado, a sua personalidade forte é o seu principal destaque.
+
+René Belloq: Já é apresentado como alguém totalmente maligno, enganando uma tribo local, roubando o artefato das mãos de Jones e tentando mata-lo, sendo revelado como um arqueólogo contratado pelos nazistas para encontrar a Arca da Aliança, com a qual buscam fazê-los "invencíveis", para no fim morrerem pelo mesmo artefato.</p>
 
 <h2>Análise das cores da cena:</h2>
-<p>No cenário decidimos colocaruma cor cinza de seriedade para mostrar como a situação está intensa e séria, apenas quando o jogador passa de todo o desafio que ele irá conseguir acessar uma sala com tesouros e com cores amarelas para representar a felicidade de conseguir superar momentos difícies.</p>
+<p>No cenário decidimos colocar uma cor cinza de seriedade para mostrar como a situação está intensa e séria, apenas quando o jogador passa de todo o desafio que ele irá conseguir acessar uma sala com tesouros e com cores amarelas para representar a felicidade de conseguir superar momentos difícies.</p>
 
 <h2>Proposta da cena:</h2>
 <h3>Descrição:</h3>
@@ -32,6 +41,6 @@
 
 <h3>Oque cada um da dupla fez:</h3>
 <p>Daniel Ryu: Peguei os assets na store, fiz o mapa e selecionei os melhores assets que combine, fiz e tentei ajeitar a programação de movimentação vendo vídeos e tentando em aula para arrumar os vários erros que teve, também procurei uma música que ficará tocando no fundo, fiz uma boa parte da documentação do jogo e o diagrama de classes usando o LucidChart.</p>
-<p>Gustavo Rezende:</p>
+<p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e tentei finalizar o projeto fora da escola.</p>
 
 <h2>Scripts</h2>
