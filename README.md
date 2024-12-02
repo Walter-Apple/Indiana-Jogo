@@ -41,6 +41,6 @@ René Belloq: Já é apresentado como alguém totalmente maligno, enganando uma 
 
 <h3>Oque cada um da dupla fez:</h3>
 <p>Daniel Ryu: Peguei os assets na store, fiz o mapa e selecionei os melhores assets que combine, fiz e tentei ajeitar a programação de movimentação vendo vídeos e tentando em aula para arrumar os vários erros que teve, também procurei uma música que ficará tocando no fundo, fiz uma boa parte da documentação do jogo e o diagrama de classes usando o LucidChart.</p>
-<p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e tentei finalizar o projeto fora da escola.</p>
+<p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e consegui finalizar o projeto fora da escola.</p>
 
 <h2>Scripts</h2>
