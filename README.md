@@ -82,4 +82,51 @@ public class ControleCamera : MonoBehaviour
         orientation.rotation = Quaternion.Euler(0, yRotation, 0);
     }
 }
- ```
+```
+<h3>Controle de menu:</h3>
+
+```
+
+```
+
+
+<h3>Fim de jogo:</h3>
+
+```
+
+```
+
+
+<h3>Finalizar jogo:</h3>
+
+```
+
+```
+
+
+<h3>Camera fixa:</h3>
+
+```
+
+```
+
+
+<h3>Tocador de música:</h3>
+
+```
+
+```
+
+
+<h3>Pedras:</h3>
+
+```
+
+```
+
+
+<h3>Jogador:</h3>
+
+```
+
+```
