@@ -83,5 +83,3 @@ public class ControleCamera : MonoBehaviour
     }
 }
  ```
-<p>Os ambos </p>
-
