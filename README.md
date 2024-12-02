@@ -44,7 +44,8 @@ René Belloq: Já é apresentado como alguém totalmente maligno, enganando uma 
 <p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e consegui finalizar o projeto fora da escola.</p>
 
 <h2>Scripts</h2>
-'''csharp using System.Collections;
+'''csharp 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -75,5 +76,6 @@ public class ControleCamera : MonoBehaviour
         transform.rotation = Quaternion.Euler(xRotation, yRotation, 0);
         orientation.rotation = Quaternion.Euler(0, yRotation, 0);
     }
-} ```
+} 
+```
 
