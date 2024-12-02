@@ -44,3 +44,5 @@ René Belloq: Já é apresentado como alguém totalmente maligno, enganando uma 
 <p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e consegui finalizar o projeto fora da escola.</p>
 
 <h2>Scripts</h2>
+'''csharp ```
+
