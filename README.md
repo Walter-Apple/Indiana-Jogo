@@ -44,5 +44,36 @@ René Belloq: Já é apresentado como alguém totalmente maligno, enganando uma 
 <p>Gustavo Rezende: Eu ajudei o Daniel em tudo que ele fez, fiz a maioria dos scripts e consegui finalizar o projeto fora da escola.</p>
 
 <h2>Scripts</h2>
-'''csharp ```
+'''csharp using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ControleCamera : MonoBehaviour
+{
+    public float sensX;
+    public float sensY;
+
+    public Transform orientation;
+
+    float xRotation;
+    float yRotation;
+    void Start()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        float mouseX = Input.GetAxis("Mouse X") * Time.deltaTime * sensX;
+        float mouseY = Input.GetAxis("Mouse Y") * Time.deltaTime * sensY;
+
+        yRotation += mouseX;
+        xRotation -= mouseY;
+
+        transform.rotation = Quaternion.Euler(xRotation, yRotation, 0);
+        orientation.rotation = Quaternion.Euler(0, yRotation, 0);
+    }
+} ```
 
